@@ -1,0 +1,19 @@
+{
+  "name": "fe-starter",
+  "version": "1.0.0",
+  "description": "Front-end starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpsonphile/fe-starter.git"
+  },
+  "author": "Dawid Mazewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simpsonphile/fe-starter/issues"
+  },
+  "homepage": "https://github.com/simpsonphile/fe-starter#readme"
+}
