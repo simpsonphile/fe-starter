@@ -4,7 +4,8 @@
   "description": "Front-end starter",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js",
+    "production": "webpack --config webpack.config.js --mode=production"
   },
   "repository": {
     "type": "git",
